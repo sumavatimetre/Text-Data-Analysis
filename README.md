@@ -8,9 +8,13 @@ Explore the exciting world of Text Data Analysis through this YouTube Case Study
 Key Features:
 
 Sentiment Analysis: Understand the emotional tone of user comments using the powerful TextBlob library.
+
 Word Clouds: Visualize the most frequently used words in both positive and negative comments.
+
 Emoji Trends: Analyze the popularity of emojis to gain insights into user sentiment.
-Technologies Used
+
+Technologies Used: 
+
 Python
 Pandas
 NumPy
