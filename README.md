@@ -1,10 +1,12 @@
 Text Data Analysis - YouTube Case Study
 
-Overview
+Overview :  
+
 Explore the exciting world of Text Data Analysis through this YouTube Case Study project. Utilizing Python and various data analysis libraries, we dive into sentiment analysis, word clouds, and emoji trends within user comments.
 
 
-Key Features
+Key Features:
+
 Sentiment Analysis: Understand the emotional tone of user comments using the powerful TextBlob library.
 Word Clouds: Visualize the most frequently used words in both positive and negative comments.
 Emoji Trends: Analyze the popularity of emojis to gain insights into user sentiment.
@@ -25,6 +27,7 @@ Find a step-by-step guide in the Jupyter Notebook within this repository.
 Clone the Repository:
 
 Clone this repository to your local machine to run analyses on your own datasets.
+
 Get Involved:
 
 Open issues for feedback or improvement suggestions.
