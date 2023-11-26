@@ -15,21 +15,21 @@ Emoji Trends: Analyze the popularity of emojis to gain insights into user sentim
 
 Technologies Used: 
 
-Python
-Pandas
-NumPy
-Seaborn
-Matplotlib
-TextBlob
-WordCloud
-Emoji
-How to Use
+Python ,
+Pandas,
+NumPy,
+Seaborn,
+Matplotlib,
+TextBlob,
+WordCloud,
+Emoji,
+How to Use, 
 
 Explore the Jupyter Notebook:
 
 Find a step-by-step guide in the Jupyter Notebook within this repository.
-Clone the Repository:
 
+Clone the Repository:
 Clone this repository to your local machine to run analyses on your own datasets.
 
 Get Involved:
